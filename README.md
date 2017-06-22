@@ -2,11 +2,6 @@
 
 • Very simple wrapper for natively zipping and unzipping files in .net 4.5.0+
 
-• Handles massive archives i.e. 50GB easily.
-
-• Efficient use of memory and no out of memory errors.
-
-• Sufficient options for granular control.
 
 # Usage
 ```cs
