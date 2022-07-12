@@ -1,4 +1,4 @@
-# CoreZip
+# CoreZip (Retired)
 
 • Very simple wrapper for natively zipping and unzipping files in .net 4.5.0+
 
